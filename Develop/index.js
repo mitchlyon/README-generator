@@ -85,6 +85,7 @@ const init = async () => {
 
         await writeToFile("./README.md", fileContent);
 
+        console.log("README.md file created!")
         
     } catch (err) {
         console.error('Error creating README. File not created.');
