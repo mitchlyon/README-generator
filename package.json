@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mitchlyon/README-generator#readme",
   "dependencies": {
-    "inquirer": "^8.1.5"
+    "inquirer": "^8.2.0"
   }
 }
